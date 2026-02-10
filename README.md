@@ -1,6 +1,6 @@
 # 💫 About Me:
 Pursuing Information Science and Engineering 
-At MIT Kundapura,Udupi
+at MIT Kundapura,Udupi
 
 
 # 💻 Tech Stack:
